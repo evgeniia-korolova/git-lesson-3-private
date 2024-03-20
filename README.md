@@ -1,2 +1,2 @@
 Hi, everybody!
-Will be very appriciated for help in fixing responsive layout
+Would appreciate your help with fixing responsive layout
